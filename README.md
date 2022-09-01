@@ -1,4 +1,4 @@
-# receipts-for-lovely-loveseats: learn
+# receipts-for-lovely-loveseats
 
 Learn Python 3 - Codecademy Project
 
