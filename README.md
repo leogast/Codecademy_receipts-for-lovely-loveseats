@@ -1,4 +1,4 @@
-# receipts-for-lovely-loveseats
+# Codecademy_receipts-for-lovely-loveseats
 
 Learn Python 3 - Codecademy Project
 
